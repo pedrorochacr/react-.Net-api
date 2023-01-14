@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ErudioMicroservices.NET6.props" />
+</Project>
